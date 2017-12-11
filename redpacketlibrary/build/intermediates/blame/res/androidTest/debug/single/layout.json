@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_pay_tips_dialog.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_pay_tips_dialog.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_record_list_footer.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_record_list_footer.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_record_fragment.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_record_fragment.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_group_member_header.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_group_member_header.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_group_member_item.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_group_member_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_popup_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_popup_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_choose_record_popup_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_choose_record_popup_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_activity_red_packet_detail.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_activity_red_packet_detail.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_received_record_list_item.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_received_record_list_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_fragment_single_chat_packet.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_fragment_single_chat_packet.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_random_detail_dialog.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_random_detail_dialog.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_activity_group_member.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_activity_group_member.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_send_record_list_item.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_send_record_list_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_details_list_item.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_details_list_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_random_dialog.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_random_dialog.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_open_packet_dialog.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_open_packet_dialog.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_row_sent_random_packet.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\em_row_sent_random_packet.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_details_list_footer.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_details_list_footer.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_row_red_packet_ack_message.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\em_row_red_packet_ack_message.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_file.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_video.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_fragment_group_packet_detail.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_fragment_group_packet_detail.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_contact.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_received_record_list_header.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_received_record_list_header.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_send_record_list_header.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_send_record_list_header.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_location.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_open_exclusive_packet_dialog.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_open_exclusive_packet_dialog.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_activity_red_packet.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_activity_red_packet.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_row_received_random_packet.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\em_row_received_random_packet.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_error_page.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_error_page.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_widget_title_bar.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_row_received_red_packet.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\em_row_received_red_packet.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_details_list_header.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_details_list_header.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\em_row_sent_red_packet.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\em_row_sent_red_packet.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_conversation_item.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_fragment_advert.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_fragment_advert.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_fragment_single_packet_detail.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_fragment_single_packet_detail.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_fragment_group_chat_packet.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_fragment_group_chat_packet.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_received_message.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_activity_record.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_activity_record.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_loading.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\393576d33473c23d8ba5924b6e829cb375b66112\\output\\res\\layout\\rp_loading.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\廖昭启\\.android\\build-cache\\7f306e8c9c8fa4e093d59d9a099e59845e5c0173\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\zhenle\\ServiceCashier\\ADream\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\zhenle\\ServiceCashier\\ADream\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_contact_list.xml"
+    }
+]

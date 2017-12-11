@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ADream</string>
+    <string name="net_error">网络访问错误，请稍后再试</string>
+    <string name="empty">还没有数据哦</string>
+    <string name="loading">请稍后...</string>
+    <string name="reload">重新尝试</string>
+    <string name="no_net">网络不可用,请检查你的网络</string>
+
+
+    <!-- 共享过度动画 -->
+    <string name="transition_photos">transition_animation_news_photos</string>
+
+    <!-- 新闻 -->
+    <string name="photo_collections">图集：%1$s</string>
+    <string name="news_from">%1$s %2$s</string>
+    <string name="photo_detail_title">%1$d/%2$d　%3$s</string>
+    <string name="web_view">WebView</string>
+    <string name="photo_news">图片新闻</string>
+    <string name="browser">用浏览器打开</string>
+    <string name="share">分享</string>
+
+    <string name="share_contents">来自「ADream」的分享：%1$s %2$s</string>
+    <string name="save">提交</string>
+    <string name="set_wallpaper">设为壁纸</string>
+
+    <string name="news">新闻</string>
+    <string name="zhihu">知乎</string>
+    <string name="photo">图片</string>
+    <string name="video">视频</string>
+    <string name="tools">设置</string>
+    <string name="no_photo_mode">无图模式</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="about">关于</string>
+    <!--视频-->
+    <string name="video_play_times">%1$s次播放</string>
+    <string name="register">注册</string>
+    <string name="config">确认密码</string>
+    <string name="password">密码</string>
+    <string name="user_name">用户名</string>
+    <string name="login">登录</string>
+    <string name="forget_password">忘记密码？</string>
+    <string name="aotulogin">自动登录</string>
+
+    <string name="emojicon_test_name">示例</string>
+    <string name="call_version_inconsistent">通话协议版本不一致</string>
+    <string name="switch_camera">切换摄像头</string>
+    <string name="capture_image">抓取图片</string>
+    <string name="network_unstable">网络不稳定</string>
+    <string name="no_call_data">没有通话数据</string>
+    <string name="have_connected_with">已经和对方建立连接</string>
+    <string name="accept_join_group">%s同意加入群</string>
+    <string name="refuse_join_group">%s拒绝加入群</string>
+    <string name="at_your_in_group">%s在群聊中@了你</string>
+    <string name="msg_recall_by_user">%1$s 撤回了一条消息</string>
+    <string name="conference_invite_error">还没有获取到会议信息，无法邀请其他人加入</string>
+</resources>

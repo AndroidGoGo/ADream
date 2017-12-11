@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADream.iml" filepath="$PROJECT_DIR$/ADream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irecyclerview/irecyclerview.iml" filepath="$PROJECT_DIR$/irecyclerview/irecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcvideoplayer/jcvideoplayer.iml" filepath="$PROJECT_DIR$/jcvideoplayer/jcvideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpacketlibrary/redpacketlibrary.iml" filepath="$PROJECT_DIR$/redpacketlibrary/redpacketlibrary.iml" />
+    </modules>
+  </component>
+</project>

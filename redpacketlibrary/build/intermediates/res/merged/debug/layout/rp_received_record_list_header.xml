@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/rp_money_white"
+              android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/iv_avatar"
+        style="@style/AvatarIconStyle"
+        android:layout_marginTop="@dimen/size90px"
+        android:src="@drawable/rp_avatar"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size30px"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="0dp"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxEms="10"
+            android:maxLines="1"
+            android:textColor="@color/rp_text_black"
+            android:textSize="@dimen/font45px"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/name_str_format_received"
+            android:textColor="@color/rp_text_black"
+            android:textSize="@dimen/font45px"
+            />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_received_money_amount"
+        style="@style/ReceivedMoneyStyle"
+        android:text="@string/rp_str_amount_zero"
+        />
+
+    <TextView
+        android:id="@+id/tv_ali_account_hint"
+        style="@style/RecordReceivedCountTextStyle"
+        android:layout_marginTop="@dimen/size15px"
+        android:gravity="center"
+        android:text="@string/str_receive_rp_auto_ali"
+        android:visibility="gone"
+        />
+
+    <LinearLayout
+        android:id="@+id/ll_show_ali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical"
+        android:visibility="gone"
+        >
+
+        <TextView
+            android:id="@+id/tv_ali_account_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/rp_button_blue"
+            android:textSize="@dimen/font36px"
+            />
+
+        <ImageView
+            android:id="@+id/iv_unbind_ali_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size9px"
+            android:src="@drawable/rp_arrow_forward_blue"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_bind_ali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size15px"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/btn_bind_ali_account"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size114px"
+            android:layout_marginLeft="105dp"
+            android:layout_marginRight="105dp"
+            android:background="@drawable/rp_stroke_red_selector"
+            android:text="@string/btn_bind_ali"
+            android:textColor="@color/rp_tv_red_selector"
+            android:textSize="@dimen/font51px"/>
+
+        <TextView
+            android:id="@+id/tv_bind_ali_account_hint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/size30px"
+            android:gravity="center"
+            android:text="@string/str_authorized_record_rp"
+            android:textColor="@color/rp_text_light_grey"
+            android:textSize="@dimen/font36px"/>
+    </LinearLayout>
+
+
+    <View
+        style="@style/DividerStyle"
+        android:layout_marginTop="@dimen/size81px"
+
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/size30px"
+        android:paddingTop="@dimen/size30px"
+        android:visibility="visible"
+        >
+
+        <LinearLayout
+            android:id="@+id/layout_receive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size174px"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tv_received_count"
+                style="@style/RecordReceivedCountStyle"
+                android:text="0"
+                />
+
+            <TextView
+                style="@style/RecordReceivedCountTextStyle"
+                android:text="@string/money_received"
+                android:layout_marginTop="@dimen/size15px"
+                android:textColor="@color/rp_text_light_grey"
+                android:textSize="@dimen/font45px"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/layout_receive"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@color/rp_divider_color"/>
+
+        <LinearLayout
+            android:id="@+id/layout_best"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/size174px"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tv_best_count"
+                style="@style/RecordReceivedCountStyle"
+                android:text="0"
+                />
+
+            <TextView
+                style="@style/RecordReceivedCountTextStyle"
+                android:layout_marginTop="@dimen/size15px"
+                android:text="@string/best_luck"
+                android:textColor="@color/rp_text_light_grey"
+                android:textSize="@dimen/font45px"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        style="@style/DividerStyle"
+        />
+
+    <TextView
+        android:id="@+id/tv_record_no_rp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/size90px"
+        android:text="@string/str_your_not_rp"
+        android:textColor="@color/rp_text_light_grey"
+        android:textSize="@dimen/font36px"
+        android:visibility="gone"
+        />
+</LinearLayout>
